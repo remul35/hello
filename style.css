@@ -9,5 +9,9 @@ h1 {
 	text-align: center;
 	margin: 20px;
 }
+p {
+	background-color: lightyellow;
+	color: red;
+}
 
 
